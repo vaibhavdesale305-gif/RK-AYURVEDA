@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Radhe Krishna Ayurveda",
+  "description": "Professional Flipkart-style Ayurvedic e-commerce app featuring premium herbal products, easy checkout, and an admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
